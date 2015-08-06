@@ -2,8 +2,8 @@
 
 ## Preparation Checklist
 
-1. [Install git on your computer](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-2. [Create](https://github.com/join) a Github account (don't forget your username and password)
+1. [Install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) git on your computer
+2. [Create](https://github.com/join) a Github account
 3. Make sure you have basic knowledge of how to use the command line. I.e. `cd` and `ls`
 4. Print [this git cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) and bring it to the workshop
 
