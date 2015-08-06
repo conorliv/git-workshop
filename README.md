@@ -14,4 +14,7 @@
 3. Every student create file and upload it to this repo
 4. Every student create repo under own Github account and upload previous project
 
-[Git/Github Workshop (Google Slides link)](https://docs.google.com/a/spindance.com/presentation/d/1MMBOC70Sa6JNcObV3mdRUFwNkalmaBeqPXFJt1276PQ/pub?start=false&loop=false&delayms=3000)
+## Resources
+
+1. [Git/Github Workshop (Google Slides link)](https://docs.google.com/a/spindance.com/presentation/d/1MMBOC70Sa6JNcObV3mdRUFwNkalmaBeqPXFJt1276PQ/pub?start=false&loop=false&delayms=3000)
+2. Read free book [Pro Git](https://git-scm.com/book/en/v2)
