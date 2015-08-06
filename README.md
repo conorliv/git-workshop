@@ -1,4 +1,4 @@
-# git-workshop
+# Git/Github Workshop
 
 ## Preparation Checklist
 
