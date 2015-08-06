@@ -5,6 +5,7 @@
 1. Install git on your computer
 2. [Create a Github account](https://github.com/join)
 3. Make sure you have basic knowledge of how to use the command line. I.e. `cd` and `ls`
+4. Print [this git cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) and bring it to the workshop
 
 ## Learning Goals
 
