@@ -18,3 +18,4 @@
 
 1. [Git/Github Workshop (Google Slides link)](https://docs.google.com/a/spindance.com/presentation/d/1MMBOC70Sa6JNcObV3mdRUFwNkalmaBeqPXFJt1276PQ/pub?start=false&loop=false&delayms=3000)
 2. Read free book [Pro Git](https://git-scm.com/book/en/v2)
+3. Interesting [article](http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/) explaining Github's background
